@@ -242,4 +242,4 @@ This repository serves as the official landing page for DWG TrueView. The softwa
 **Get the most recent version of DWG TrueView today!**
 
 ---
-**Last updated:** 2026-10-17 14:02:19 UTC
+**Last updated:** 2026-10-17 17:43:59 UTC
